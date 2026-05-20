@@ -2,4 +2,4 @@ To properly open and run the full project, you may need several programs and too
 
 Please use the Google Drive link provided below to view and better understand the project. Thank you :)
 
-Google Диск https://share.google/In0jqWvCGVUeUsdV2
+https://drive.google.com/drive/folders/1YGJ-9o1yiN8fGWR8xfFSeE4ubNTLI5Ml?usp=sharing
